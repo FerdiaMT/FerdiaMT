@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferdia</h1>
 <h3 align="center">I am a Software Engineering student in Maynooth University</h3>
 
-- 🔭 I’m currently working on **Creating React apps and working on the Maynooth CSC advanced project**
+- 🔭 I’m currently working on **Creating a 3D engine with C++ and OpenGL and working on the Maynooth CSC advanced project**
 
 - <a href= "https://ferdiamt.github.io/Website/">Here is my Website</a>
 
