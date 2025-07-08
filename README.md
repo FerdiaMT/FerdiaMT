@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Making a Gameboy Emulator**
 
-- <a href= "https://ferdiamt.github.io/Website/">Here is my Website</a>
+- <a href= "https://ferdia.tech/">Here is my Website</a>
 
 <h3 align="left">Languages and Tools I Use:</h3>
 <p align="left"> 
