@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ferdia</h1>
-<h3 align="center">I am 3rd year Software Engineering student in Maynooth University</h3>
+<h3 align="center">I am an intern in the Modelling team at Intel NPU, and 3rd year CSSE student at Maynooth University</h3>
 
 <h3>My main interests is in low level programming, such as hardware emulation, compilers, computer graphics and embedded systems</h3>
 
-- 🔭 I’m currently working on **Making a Gameboy Advanced Emulator**
+- 🔭 I’m currently working on **Work**
 
 - <a href= "https://ferdia.tech/">Here is my Website</a>
 
