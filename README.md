@@ -3,7 +3,7 @@
 
 <h3>My main interests is in low level programming, such as hardware emulation, compilers, computer graphics and embedded systems</h3>
 
-- <a href= "[https://ferdiamt.github.io/ferdiaPortfolio/]">Here is my portfolio</a>
+- <a href="https://ferdiamt.github.io/ferdiaPortfolio/">Here is my portfolio</a>
 
 ### My current side Projects /s
 - <a href= "https://github.com/FerdiaMT/GameboyAdvanced">Gameboy Advanced ISS (WIP)</a>
